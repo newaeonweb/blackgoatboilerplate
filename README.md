@@ -14,7 +14,7 @@ Are you curious about the project name?
 The trail of tears is:
 ---
 
-How to migrate a AngularJS 1.x project to AngularJS suck fucking shit AngularJS 2 or 4, 5 6 fuck off.
+How to migrate an AngularJS 1.x project to AngularJS suck fucking shit AngularJS 2 or 4, 5, 666 fuck off.
 
 More updates coming soon Berserker!
 
