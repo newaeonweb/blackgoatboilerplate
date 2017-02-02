@@ -18,6 +18,8 @@ How to migrate an AngularJS 1.x project to AngularJS suck fucking shit AngularJS
 
 More updates coming soon Berserker!
 
+PS: _Do not be a cock sucker and tell me that the color of Heidrun in the Edda is not disclosed, please!_
+
 
 
 
