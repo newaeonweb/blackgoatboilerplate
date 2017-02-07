@@ -47,6 +47,7 @@
     "ng-annotate-webpack-plugin": "^0.1.2",
     "ng-cache-loader": "0.0.18",
     "node-sass": "^4.1.1",
+    "paths": "^0.1.1",
     "protractor": "^4.0.14",
     "require-dir": "^0.3.0",
     "sass-loader": "^4.0.0",
@@ -64,6 +65,7 @@
     "pretest": "webdriver-manager update",
     "test": "protractor ./test/protractor.conf.js",
     "mocha": "mocha --compilers js:babel-register ./app/**/*.spec.js",
+    "karma": "karma start ./karma.conf.js",
     "test-server": "http-server dist -p 9000 -a localhost",
     "start": "webpack-dev-server --config webpack.config.dev.babel.js --port 9000 --inline --hot",
     "build": "webpack --config webpack.config.prod.babel.js --progress"
