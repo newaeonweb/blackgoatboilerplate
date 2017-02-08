@@ -1,4 +1,4 @@
-import home from 'home';
+import home from './home.module';
 
 describe('Controller: Home', function() {
   let $controller;

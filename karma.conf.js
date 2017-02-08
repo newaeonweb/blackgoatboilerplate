@@ -3,7 +3,7 @@ module.exports = function (config) {
     basePath: '',
     frameworks: ['jasmine'],
     files: [
-      'app/home/home.spec.js'
+      'spec.karma.context.js'
     ],
     webpack: {
       devtool: 'inline-source-map',
@@ -25,7 +25,7 @@ module.exports = function (config) {
       }
     },
     preprocessors: {
-      'spec.karma.context.js': ['webpack', 'sourcemap']
+      'spec.karma.context.js': ['webpack']
     },
     reporters: ['progress', 'coverage'],
     coverageReporter: {
@@ -42,6 +42,14 @@ module.exports = function (config) {
     colors: true,
     logLevel: config.LOG_INFO,
     autoWatch: false,
+    // Start these browsers, currently available:
+		// - Chrome
+		// - ChromeCanary
+		// - Firefox
+		// - Opera
+		// - Safari (only Mac)
+		// - PhantomJS
+		// - IE (only Windows)
     browsers: ['Firefox'],
     singleRun: true
   });
