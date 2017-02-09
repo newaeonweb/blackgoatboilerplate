@@ -6,11 +6,17 @@ describe('Controller: Home', function() {
   beforeEach(angular.mock.module(home));
 
   beforeEach(angular.mock.inject(function(_$controller_) {
+    console.log(_$controller_);
     $controller = _$controller_;
   }));
 
+  it('Should HomeCtrl must be defined', function () {
+    expect($controller).toBeDefined();
+  });
+
+
   it('name is initialized to World', function() {
-    let ctrl = $controller('HomeController');
-    expect(ctrl.name).toBe('World');
+    let ctrl = $controller('home');
+    expect(ctrl.name).toBe('home');
   });
 });

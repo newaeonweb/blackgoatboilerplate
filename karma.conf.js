@@ -40,7 +40,7 @@ module.exports = function (config) {
     },
     port: 9876,
     colors: true,
-    logLevel: config.LOG_INFO,
+    logLevel: config.LOG_ERROR,
     autoWatch: false,
     // Start these browsers, currently available:
 		// - Chrome
@@ -50,7 +50,7 @@ module.exports = function (config) {
 		// - Safari (only Mac)
 		// - PhantomJS
 		// - IE (only Windows)
-    browsers: ['Firefox'],
+    browsers: ['PhantomJS'],
     singleRun: true
   });
 };
