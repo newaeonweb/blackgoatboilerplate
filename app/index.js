@@ -2,6 +2,7 @@ import '../node_modules/bootstrap/dist/js/bootstrap.min.js';
 import angular from 'angular';
 import uirouter from 'angular-ui-router';
 import sanitize from 'angular-sanitize';
+
 if (TEST) {
     require('angular-mocks');
 }
