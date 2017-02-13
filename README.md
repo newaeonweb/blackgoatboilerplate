@@ -1,6 +1,8 @@
 BlackGoat AngularJS ES6 Webpack
 =============================
 
+![Build](https://travis-ci.org/newaeonweb/blackgoatboilerplate.svg?branch=master)
+
 An AngularJS 1.x QuickStart kit featuring: ES6, Webpack, UI-Router, and more
 
 Blasphemies coming Soon!
