@@ -34,7 +34,15 @@ module.exports = function (config) {
         // test results reporter to use
         // possible values: 'dots', 'progress'
         // available reporters: https://npmjs.org/browse/keyword/karma-reporter
-        reporters: ['progress'],
+        reporters: ['progress', 'html'],
+
+        htmlReporter: {
+            outputFile: 'tests/units.html',
+
+            // Optional
+            pageTitle: 'Unit Tests For BlackGoatBoilerplate',
+            subPageTitle: 'An AngularJS 1.x QuickStart kit featuring: ES6, Webpack, UI-Router, and more'
+        },
 
 
         // web server port
@@ -79,7 +87,8 @@ module.exports = function (config) {
             'karma-chrome-launcher',
             'karma-firefox-launcher',
             'karma-safari-launcher',
-            'karma-phantomjs-launcher'
+            'karma-phantomjs-launcher',
+            'karma-htmlfile-reporter'
 
         ]
     })
