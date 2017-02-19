@@ -37,7 +37,7 @@ module.exports = function (config) {
         reporters: ['progress', 'html'],
 
         htmlReporter: {
-            outputFile: 'tests/units.html',
+            outputFile: 'test-report/units.html',
 
             // Optional
             pageTitle: 'Unit Tests For BlackGoatBoilerplate',
