@@ -44,21 +44,97 @@
     },
     {
       "id": 8,
-      "name": "",
-      "meaning": "",
-      "attestetions": ""
+      "name": "Höðr",
+      "meaning": "Warrior",
+      "attestetions": "Poetic Edda, Prose Edda, Gesta Danorum, Chronicon Lethrense, Annales Lundenses, possibly Beowulf"
     },
     {
       "id": 9,
-      "name": "",
-      "meaning": "",
-      "attestetions": ""
+      "name": "Hœnir ",
+      "meaning": "Contested",
+      "attestetions": "Poetic Edda, Prose Edda, skaldic poetry"
     },
     {
       "id": 10,
-      "name": "",
-      "meaning": "",
-      "attestetions": ""
+      "name": "Lóðurr",
+      "meaning": "Contested",
+      "attestetions": "Poetic Edda, skaldic poetry"
+    },{
+      "id": 11,
+      "name": "Loki ",
+      "meaning": "Contested",
+      "attestetions": "Poetic Edda, Prose Edda, Heimskringla, Loka Táttur, Norwegian rune poem, Danish folk tales"
+    },
+    {
+      "id": 12,
+      "name": "Máni",
+      "meaning": "Moon",
+      "attestetions": "Poetic Edda, Prose Edda"
+    },{
+      "id": 13,
+      "name": "Mímir",
+      "meaning": "Rememberer",
+      "attestetions": "Poetic Edda, Prose Edda"
+    },{
+      "id": 14  ,
+      "name": "Meili",
+      "meaning": "The Lovely one",
+      "attestetions": "Poetic Edda, Prose Edda"
+    },{
+      "id": 15,
+      "name": "Njörðr",
+      "meaning": "Contested",
+      "attestetions": "Poetic Edda, Prose Edda, Heimskringla, Egils saga, Hauksbók ring oath, place names"
+    },{
+      "id": 16,
+      "name": "Odin",
+      "meaning": "frenzy",
+      "attestetions": "Most attestations of Germanic paganism"
+    },{
+      "id": 17,
+      "name": "Óðr ",
+      "meaning": "The frenzied one",
+      "attestetions": "Poetic Edda, Prose Edda"
+    },{
+      "id": 18,
+      "name": "Saxnōt ",
+      "meaning": "Contested",
+      "attestetions": "Old Saxon Baptismal Vow, Old English royal genealogies"
+    },{
+      "id": 19,
+      "name": "Thor",
+      "meaning": "Thunder, all names stem from Proto-Germanic ÞunraR",
+      "attestetions": "Most attestations of Germanic paganism"
+    },{
+      "id": 20,
+      "name": "Týr",
+      "meaning": "God, derived from Proto-Germanic ",
+      "attestetions": "Poetic Edda, Prose Edda, skaldic poetry, Hadrian's Wall altar"
+    },{
+      "id": 21,
+      "name": "Ullr ",
+      "meaning": "Something like Glory",
+      "attestetions": "Poetic Edda, Prose Edda, skaldic poetry, Gesta Danorum, Thorsberg chape, toponyms in Norway and Sweden"
+    },{
+      "id": 22,
+      "name": "Váli",
+      "meaning": "Chosen",
+      "attestetions": "Poetic Edda, Prose Edda, Gesta Danorum "
+    },{
+      "id": 23,
+      "name": "Viðarr",
+      "meaning": "Possibly wide ruler",
+      "attestetions": "Poetic Edda, Prose Edda"
+    },{
+      "id": 24,
+      "name": "Vé",
+      "meaning": "Vé (shrine)",
+      "attestetions": "Poetic Edda, Prose Edda"
+    },{
+      "id": 20,
+      "name": "Vili",
+      "meaning": "Will",
+      "attestetions": "Poetic Edda, Prose Edda"
     }
   ],
   "goddesses": [
@@ -106,18 +182,70 @@
     },
     {
       "id": 8,
-      "name": "",
-      "meaning": "",
-      "attestetions": ""
+      "name": "Gefjun",
+      "meaning": "Related to giving",
+      "attestetions": "Prose Edda, Ynglinga saga, Völsa þáttr"
     },
     {
       "id": 9,
+      "name": "Gersemi ",
+      "meaning": "Treasure, precious object",
+      "attestetions": "Heimskringla"
+    },
+    {
+      "id": 10,
+      "name": "Gerðr",
+      "meaning": "Fenced in",
+      "attestetions": "Poetic Edda, Prose Edda, Heimskringla"
+    },
+    {
+      "id": 11,
       "name": "",
       "meaning": "",
       "attestetions": ""
     },
     {
-      "id": 10,
+      "id": 12,
+      "name": "",
+      "meaning": "",
+      "attestetions": ""
+    },{
+      "id": 13,
+      "name": "",
+      "meaning": "",
+      "attestetions": ""
+    },{
+      "id": 14  ,
+      "name": "",
+      "meaning": "",
+      "attestetions": ""
+    },{
+      "id": 15,
+      "name": "",
+      "meaning": "",
+      "attestetions": ""
+    },{
+      "id": 16,
+      "name": "",
+      "meaning": "",
+      "attestetions": ""
+    },{
+      "id": 17,
+      "name": "",
+      "meaning": "",
+      "attestetions": ""
+    },{
+      "id": 18,
+      "name": "",
+      "meaning": "",
+      "attestetions": ""
+    },{
+      "id": 19,
+      "name": "",
+      "meaning": "",
+      "attestetions": ""
+    },{
+      "id": 20,
       "name": "",
       "meaning": "",
       "attestetions": ""
