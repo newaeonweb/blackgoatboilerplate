@@ -43,3 +43,7 @@ jspm_packages
 # IDE's
 .idea/
 .vscode/
+
+# Test Reports folder
+
+test-report/
