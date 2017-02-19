@@ -200,55 +200,120 @@
     },
     {
       "id": 11,
-      "name": "",
-      "meaning": "",
-      "attestetions": ""
+      "name": "Gná ",
+      "meaning": "Possibly related to Old Norse Gnæfa, meaning to project",
+      "attestetions": "Prose Edda"
     },
     {
       "id": 12,
-      "name": "",
+      "name": "Gullveig ",
       "meaning": "",
-      "attestetions": ""
+      "attestetions": "Poetic Edda"
     },{
       "id": 13,
-      "name": "",
-      "meaning": "",
-      "attestetions": ""
+      "name": "Hariasa",
+      "meaning": "Possibly related to the valkyrie name Herja or meaning goddess with lots of hair",
+      "attestetions": "Stone from Cologne, Germany"
     },{
       "id": 14  ,
-      "name": "",
-      "meaning": "",
-      "attestetions": ""
+      "name": "Hlín ",
+      "meaning": "Possibly related to the Old Norse term hleinir, itself possibly meaning protects",
+      "attestetions": "Poetic Edda, Prose Edda"
     },{
       "id": 15,
-      "name": "",
-      "meaning": "",
-      "attestetions": ""
+      "name": "Hretha ",
+      "meaning": "Possibly the famous or the victorious",
+      "attestetions": "De temporum ratione"
     },{
       "id": 16,
-      "name": "",
-      "meaning": "",
-      "attestetions": ""
+      "name": "Hnoss",
+      "meaning": "Treasure",
+      "attestetions": "Prose Edda"
     },{
       "id": 17,
-      "name": "",
-      "meaning": "",
-      "attestetions": ""
+      "name": "Ilmr",
+      "meaning": "Potentially related to Old Norse ilmr, a masculine noun meaning pleasant scent",
+      "attestetions": "Prose Edda, skaldic poetry"
     },{
       "id": 18,
-      "name": "",
-      "meaning": "",
-      "attestetions": ""
+      "name": "Iðunn ",
+      "meaning": "Possibly ever young",
+      "attestetions": "Poetic Edda, Prose Edda"
     },{
       "id": 19,
-      "name": "",
-      "meaning": "",
-      "attestetions": ""
+      "name": "Irpa",
+      "meaning": "Possibly relating to dark brown",
+      "attestetions": "Jómsvíkinga saga, Njáls saga"
     },{
       "id": 20,
-      "name": "",
-      "meaning": "",
-      "attestetions": ""
+      "name": "Lofn ",
+      "meaning": "Potentially related to Praise",
+      "attestetions": "Prose Edda"
+    },{
+      "id": 21,
+      "name": "Nanna ",
+      "meaning": "Possibly mother from nanna, or potentially related to nanþ-, meaning the daring one",
+      "attestetions": "Poetic Edda, Prose Edda, Gesta Danorum, Chronicon Lethrense, Setre Comb"
+    },{
+      "id": 22,
+      "name": "Nerthus",
+      "meaning": "Latinized form of what Old Norse Njörðr would have looked like around 1 CE",
+      "attestetions": "Germania"
+    },{
+      "id": 23,
+      "name": "Njörun",
+      "meaning": "Possibly related to the Norse god Njörðr and the Roman goddess Nerio",
+      "attestetions": "Poetic Edda, Prose Edda, skaldic poetry"
+    },{
+      "id": 24,
+      "name": "Rán ",
+      "meaning": "Theft, robbery",
+      "attestetions": "Poetic Edda, Prose Edda, Friðþjófs saga hins frœkna"
+    },{
+      "id": 25,
+      "name": "Rindr",
+      "meaning": "Possibly related to *Vrindr",
+      "attestetions": "Poetic Edda, Prose Edda, Gesta Danorum"
+    },{
+      "id": 26,
+      "name": "Sága",
+      "meaning": "Possibly to see",
+      "attestetions": "Poetic Edda, Prose Edda, skaldic poetry"
+    },{
+      "id": 27,
+      "name": "Sandraudiga ",
+      "meaning": "She who dyes the sand red",
+      "attestetions": "North Brabant stone"
+    },{
+      "id": 28,
+      "name": "Sif  ",
+      "meaning": "In-law-relationship",
+      "attestetions": "North Brabant stone"
+    },{
+      "id": 29,
+      "name": "Sigyn",
+      "meaning": "Victorious girl-friend",
+      "attestetions": "Poetic Edda, Prose Edda"
+    },{
+      "id": 30,
+      "name": "Sandraudiga ",
+      "meaning": "She who dyes the sand red",
+      "attestetions": "North Brabant stone"
+    },{
+      "id": 31,
+      "name": "Sinthgunt",
+      "meaning": "Contested",
+      "attestetions": "Merseburg Incantations"
+    },{
+      "id": 32,
+      "name": "Sandraudiga ",
+      "meaning": "She who dyes the sand red",
+      "attestetions": "North Brabant stone"
+    },{
+      "id": 33,
+      "name": "Sandraudiga ",
+      "meaning": "She who dyes the sand red",
+      "attestetions": "North Brabant stone"
     }
   ]
 }
