@@ -1,4 +1,5 @@
 import '../sass/user.scss';
+
 export default class UserController {
     constructor($stateParams, $location, user, posts) {
         this.$stateParams = $stateParams;

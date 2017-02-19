@@ -45,5 +45,9 @@ jspm_packages
 .vscode/
 
 # Test Reports folder
-
 test-report/
+
+# Build folder
+build/
+
+

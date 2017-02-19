@@ -1,4 +1,5 @@
 import post from '../../index';
+
 describe('PostController', () => {
     let controller;
     let service;
