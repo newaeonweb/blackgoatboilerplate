@@ -1,5 +1,5 @@
 import '../sass/posts.scss';
-export default class PostControllers {
+export default class PostsController {
     constructor($stateParams, $location, posts) {
         this.$stateParams = $stateParams;
         this.$location = $location;
@@ -7,4 +7,4 @@ export default class PostControllers {
     }
 }
 
-PostControllers.$inject = ['$stateParams', '$location', 'posts'];
+PostsController.$inject = ['$stateParams', '$location', 'posts'];

@@ -12,12 +12,12 @@ this.addEventListener('install', event => {
             return cache.addAll([
                 'manifest.json',
                 'offline.html',
-                'app/images/icon-128.png',
-                'app/images/icon-152.png',
-                'app/images/icon-144.png',
-                'app/images/icon-192.png',
-                'app/images/icon-256.png',
-                'app/images/icon-512.png',
+                '/images/icon-128.png',
+                '/images/icon-152.png',
+                '/images/icon-144.png',
+                '/images/icon-192.png',
+                '/images/icon-256.png',
+                '/images/icon-512.png',
                 offlineUrl
             ]);
         })
